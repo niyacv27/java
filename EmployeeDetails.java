@@ -104,7 +104,7 @@ class EmployeeDetails {
         }
 
         System.out.println("\n--- Details of Teachers ---");
-       for (int i = 0; i < teachers.length; i++) {
+        for (int i = 0; i < teachers.length; i++) {
           teachers[i].display();
           System.out.println();
        }
